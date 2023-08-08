@@ -1,0 +1,13 @@
+{
+    "makefile.launchConfigurations": [
+        {
+            "cwd": "c:\\Users\\stefa\\source\\c\\csnakedel1",
+            "binaryPath": "c:\\Users\\stefa\\source\\c\\csnakedel1\\main.exe",
+            "binaryArgs": []
+        }
+    ],
+    "files.associations": {
+        "stdlib.h": "c",
+        "conio.h": "c"
+    }
+}
